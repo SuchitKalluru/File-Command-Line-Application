@@ -2,6 +2,8 @@
 
 This program allows the user to use the command "./fops <command> <source> <destination> " in order to perform operations regarding the <source> file from within the command line of the user's OS specific terminal. 
 
+*In order to use download and unzip the file -> run the command gcc "fops.c -o fops" (you can rename fops to whatever name you choose)
+
 The user can (1)Copy (2)Rename (3)Delete or (4)Convert. 
 
 Copy - In order to use the copy functionality of the application the user would need to type "./fops copy <source> <destination>". 
