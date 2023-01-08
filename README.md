@@ -12,5 +12,5 @@ Rename - In order to use the rename functionality of the application the user wo
 
 Delete - In order to use the delete functionality of the application the user would need to type "./fops delete <source> <destination>".
 
-Convert - The Convert functionality is able to convert the <source> file into a .json or .csv file based on what the extension of the <source> file is. 
+Convert - The Convert functionality is able to convert the "<source>" file into a .json or .csv file based on what the extension of the "<source>" file is. 
 In order to use this functionality the user would need to type "./fops convert <source> <destination>".
